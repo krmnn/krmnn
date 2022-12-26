@@ -17,9 +17,9 @@ I started to fiddle with Linux in early 2000s and, after school, studied Compute
   - for ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH
   - for IXPs building monitoring components like prometheus exporters
   - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
-- **Observability** (Monitoring, Logging, Tracing)
+- **Observability** (Monitoring, Logging, Tracing, Alarming)
   - Prometheus, Prometheus Federations, Grafana, VictoriaMetrics for scraping, storing and visualizing large amounts of system metrics
-  - Vector.dev and Elasticsearch/Opensearch for scrapiong, storing, searching and visualizing large amounts of system- and business logs
+  - Vector.dev and Elasticsearch/Opensearch for collecting, storing, searching and visualizing large amounts of system- and business logs
   - Nagios, Icinga for legacy environments
 
 I currently work for [@idealo](https://github.com/idealo) on observability topics.
