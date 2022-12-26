@@ -10,7 +10,7 @@ I view myself as a generalist, but I mainly do
 I started to fiddle with Linux in early 2000s and, after school, studied Computer Science at [FAU](https://cs.fau.de/). Since then I have moved on to different topics:
 
 - **DevOps** and **Infrastructure as Code** 
-  - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Terraform, HCL, AWS CDK, Helm, kustomize, python
+  - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, python
   - Kubernetes (bare-metal, Rancher, EKS) design, setup and optimization
 - **System- and Webprogramming** using C/C++, Python and GoLang
   - for ISPs and IXPs, building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH
