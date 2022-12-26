@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thomas Karmann and I'm a **systems engineer** and hobby **musician**, currently living in Berlin (DE). 
+My name is Thomas Karmann and I'm a **systems engineer** and **amateur musician**, currently living in Berlin (DE). 
 
 I view myself as a generalist, but I mainly do:
 - ⚙️ **Systems engineering** for Linux and UNIX datacenter environments
