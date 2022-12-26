@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Thomas, a systems and software engineer and hobby musician, currently living in Berlin (DE). 
+
+
+
 <!--
 **krmnn/krmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
