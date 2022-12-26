@@ -6,11 +6,11 @@ I view myself as a generalist, but I mainly do **Systems engineering** for linux
 
 I started doing Linux Administration in early 2000s and, after school, studied Computer Science at [FAU](https://cs.fau.de/), but have since then moved on to different topics:
 
-- System programming using C/C++, Python, Typescript and GoLang
-- Web-development (Zope, Flask, FastAPI)
+- System programming using C/C++, Python and nowadays GoLang
+- Web-development (Zope, Flask, FastAPI, Nodejs, Typescript)
 - Built large-scale device provisioning software for ISPs based on CWMP/TR-69
-- Kubernetes (bare-metal, rancher, EKS) setup and optimization
 - Development Operations and Infrastructure as Code (CFEngine, Ansible, Terraform, CDK, helm, kustomize)
+- Kubernetes (bare-metal, rancher, EKS) setup and optimization
 - Observability (Monitoring, Logging, Tracing)
 
 
