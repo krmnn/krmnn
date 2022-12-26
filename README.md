@@ -10,10 +10,10 @@ I view myself as a generalist, but I mainly do
 I started doing Linux Administration in early 2000s and, after school, studied Computer Science at [FAU](https://cs.fau.de/), but have since then moved on to different topics:
 
 - **DevOps** and **Infrastructure as Code** 
-  - fluid in all major configuration systems and IaC ecosystems: CFEngine, Ansible, Terraform, HCL, AWS CDK, Helm, kustomize, python
+  - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Terraform, HCL, AWS CDK, Helm, kustomize, python
   - Kubernetes (bare-metal, Rancher, EKS) design, setup and optimization
 - **System- and Webprogramming** using C/C++, Python and GoLang
-  - for ISPs and IXPs, building large-scale CPE provisioning flows for CWMP/TR-69
+  - for ISPs and IXPs, building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH
   - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
 - Handling **Observability topics** (Monitoring, Logging, Tracing)
   - Prometheus, Prometheus Federations, Grafana, VictoriaMetrics for scraping, storing and visualizing system- and business-metrics
