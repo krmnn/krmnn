@@ -13,7 +13,8 @@ I started to fiddle with Linux in early 2000s and, after school, studied Compute
   - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, python
   - Kubernetes (bare-metal, Rancher, EKS) design, setup and optimization
 - **System- and Webprogramming** using C/C++, Python and GoLang
-  - for ISPs and IXPs, building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH
+  - for ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH
+  - for IXPs building monitoring components like prometheus exporters
   - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
 - **Observability** (Monitoring, Logging, Tracing)
   - Prometheus, Prometheus Federations, Grafana, VictoriaMetrics for scraping, storing and visualizing system- and business-metrics
