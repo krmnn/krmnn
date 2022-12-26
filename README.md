@@ -7,7 +7,7 @@ I view myself as a generalist, but I mainly do
 - ☁️ **Cloud engineering** for AWS environments
 - 🧯 **IT Operations** and **Site Reliability Engineering** in any environment
 
-I started to fiddle with Linux in early 2000s and, after school, studied Computer Science at [FAU](https://cs.fau.de/). Since then I have moved on to different topics:
+I started to fiddle with Linux in early 2000s and, after school, studied Computer Science at [FAU](https://cs.fau.de/) with focus on Operating Systems, Computer architecture and Virtualization. Since then I have moved on to different topics:
 
 - **DevOps** and **Infrastructure as Code** 
   - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, python
