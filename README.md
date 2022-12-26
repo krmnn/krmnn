@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thomas Karmann and I'm a **systems engineer** and **amateur musician**, currently living in Berlin (DE). 
+My name is Thomas Karmann and I am a **systems engineer** and **amateur musician**, currently living in Berlin (DE). 
 
 I view myself as a generalist, but I mainly do:
 - ⚙️ **Systems engineering** for Linux and UNIX datacenter environments
@@ -10,7 +10,7 @@ I view myself as a generalist, but I mainly do:
 I started to fiddle with Linux in early 2000s and, after school, studied Computer Science at [FAU](https://cs.fau.de/) with focus on Operating Systems, Computer architecture and Virtualization whilst working for the CS Dept as System Administrator. Since then I have moved on to different topics:
 
 - **DevOps** and **Infrastructure as Code** 
-  - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, python
+  - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, boto
   - Kubernetes (bare-metal, Rancher, EKS) design, setup and optimization, building integrations
   - Code and Deployment Pipelines using GitLab, GitHub, Jenkins
 - **System- and Webprogramming** using C/C++, Python and GoLang
@@ -24,6 +24,10 @@ I started to fiddle with Linux in early 2000s and, after school, studied Compute
 
 I currently work for [@idealo](https://github.com/idealo) on observability topics.
 
+If I touch computers in my free time I am busy with:
+- creating and recording music using DAWs, instruments and controllers
+- learning to code DSP and audio software, plugins
+- DIY projects, home automation
 
 <!--
 **krmnn/krmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
