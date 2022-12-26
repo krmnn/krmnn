@@ -15,7 +15,7 @@ I started to fiddle with Linux in early 2000s and, after school, studied Compute
 - **System- and Webprogramming** using C/C++, Python and GoLang
   - for ISPs and IXPs, building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH
   - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
-- Handling **Observability** (Monitoring, Logging, Tracing)
+- **Observability** (Monitoring, Logging, Tracing)
   - Prometheus, Prometheus Federations, Grafana, VictoriaMetrics for scraping, storing and visualizing system- and business-metrics
   - Elasticsearch/Opensearch + vector.dev for scrapiong, storing, searching and visualizing large amounts logs
   - Nagios, Icinga for legacy environments
