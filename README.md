@@ -2,7 +2,7 @@
 
 My name is Thomas Karmann and I'm a **systems engineer** and hobby **musician**, currently living in Berlin (DE). 
 
-I view myself as a generalist, but I mainly do 
+I view myself as a generalist, but I mainly do:
 - ⚙️ **Systems engineering** for Linux and UNIX datacenter environments
 - ☁️ **Cloud engineering** for AWS environments
 - 🧯 **IT Operations** and **Site Reliability Engineering** in any environment
