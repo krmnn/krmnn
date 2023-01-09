@@ -15,7 +15,7 @@ Since then I have moved on to different topics:
   - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, boto
   - Kubernetes (bare-metal, Rancher, EKS) architecture, configuration and optimization, building integrations
   - Code and Deployment Pipelines using GitLab, GitHub, Jenkins
-- **System- and Webprogramming** using C/C++, Python and GoLang
+- **System- and Webprogramming** using C/C++ and Python
   - for ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH/netmiko
   - for IXPs building monitoring components like prometheus exporters
   - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
