@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thomas Karmann and I am a **systems engineer**, currently living in Berlin (DE). 
+My name is Thomas Karmann and I am a **systems engineer**, currently living in Berlin, Germany. 
 
 I do:
 - 🧯 **IT Operations** and **Site Reliability Engineering**
