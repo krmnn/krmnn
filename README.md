@@ -9,6 +9,8 @@ After I received my diploma I worked in different positions:
 - ⚙️ **Systems engineering** for Linux and UNIX datacenter environments
 - ☁️ **Cloud engineering** for AWS environments
 
+I currently work for [@idealo](https://github.com/idealo) on observability topics.
+
 My skillset covers multiple domains:
 
 - **Platform Engineering** and **Infrastructure as Code** 
@@ -16,19 +18,17 @@ My skillset covers multiple domains:
   - From building IaC libraries to fully managed platforms
   - Kubernetes (bare-metal, Rancher, EKS) architecture, configuration and optimization, building integrations
   - Code and Deployment Pipelines using GitLab, GitHub, Jenkins
-
-- **Softwaredevelopment** using C/C++, Python and Typescript
-  - for ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH/netmiko
-  - for IXPs building monitoring components like prometheus exporters
-  - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
   
 - **Observability Engineering** (Monitoring, Logging, Alerting)
   - Prometheus, Prometheus Federations, VictoriaMetrics and Grafana for scraping, aggregating, storing and visualizing large amounts of system and application metrics in distributed systems
   - Logstash, Vector and Elasticsearch/Opensearch for collecting, aggregating, storing, querying and visualizing large amounts of system- and application logs in distributed systems
   - Nagios, Icinga, Munin for legacy environments
 
-I currently work for [@idealo](https://github.com/idealo) on observability topics.
-
+- **Softwaredevelopment** using C/C++, Python and Typescript
+  - for ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH/netmiko
+  - for IXPs building monitoring components like prometheus exporters
+  - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
+  
 If I touch computers in my free time I am busy with:
 - creating and recording music using DAWs, instruments and controllers
 - learning to code DSP and audio software, plugins
