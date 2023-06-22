@@ -22,7 +22,7 @@ My skillset covers multiple domains:
   - for IXPs building monitoring components like prometheus exporters
   - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
   
-- **Observability Engineering** (Monitoring, Logging, Tracing, Alarming)
+- **Observability Engineering** (Monitoring, Logging, Alerting)
   - Prometheus, Prometheus Federations, VictoriaMetrics and Grafana for scraping, aggregating, storing and visualizing large amounts of system and application metrics in distributed systems
   - Logstash, Vector and Elasticsearch/Opensearch for collecting, aggregating, storing, querying and visualizing large amounts of system- and application logs in distributed systems
   - Nagios, Icinga, Munin for legacy environments
