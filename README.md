@@ -15,7 +15,7 @@ My skillset covers multiple domains:
 
 - **Platform Engineering** and **Infrastructure as Code** 
   - Fluid in all major configuration systems and IaC ecosystems like CFEngine, Ansible, Puppet, Terraform, HCL, AWS CDK, Helm, kustomize, boto
-  - From building IaC libraries to fully managed platforms
+  - From building IaC libraries and templates to fully managed platforms
   - Kubernetes (bare-metal, Rancher, EKS) architecture, configuration and optimization, building integrations
   - Code and Deployment Pipelines using GitLab, GitHub, Jenkins
   
