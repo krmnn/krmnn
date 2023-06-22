@@ -2,8 +2,7 @@
 
 My name is Thomas Karmann and I am a **systems engineer**, currently living in Berlin, Germany. 
 
-I started to fiddle with Linux in early 2000s and, after school, studied Computer Science at [FAU](https://www.fau.eu/) with focus on Operating Systems, Computer architecture and Virtualization whilst working as System Administrator for the CS department. 
-After I received my diploma I began working in IT doing:
+In the early 2000s I started to get involved with Linux and after school I studied computer science at FAU, majoring in operating systems, computer architecture and virtualization, while working as a system administrator for the CS department. After I received my diploma, I started working in the IT industry doing:
 
 - 🧯 **IT Operations** and **Site Reliability Engineering**
 - ⚙️ **Systems engineering** for Linux and UNIX datacenter environments
