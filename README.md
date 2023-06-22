@@ -25,11 +25,11 @@ My skillset covers multiple domains:
   - Nagios, Icinga, Munin for legacy environments
 
 - **Softwaredevelopment** using C/C++, Python and Typescript
-  - for ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH/netmiko
-  - for IXPs building monitoring components like prometheus exporters
-  - for Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
+  - For ISPs building large-scale provisioning flows for CPEs and routers using CWMP/TR-69 and SSH/netmiko
+  - For IXPs building monitoring components like prometheus exporters
+  - For Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
   
 If I touch computers in my free time I am busy with:
-- creating and recording music using DAWs, instruments and controllers
-- learning to code DSP and audio software, plugins
-- DIY projects, home automation
+- Creating and recording music using DAWs, instruments and controllers
+- Learning to build DSP and audio software, plugins
+- DIY projects, home automation, microcontrollers
