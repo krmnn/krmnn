@@ -30,6 +30,6 @@ My skillset covers multiple domains:
   - For Webshops using Zope, Flask, FastAPI, Nodejs, Typescript
   
 If I touch computers in my free time I am busy with:
-- Creating and recording music using DAWs, instruments and controllers [soundcloud](https://soundcloud.com/krmnn)
+- Creating and recording music using DAWs, instruments and controllers ([soundcloud](https://soundcloud.com/krmnn))
 - Learning to build DSP and audio software, plugins
 - DIY projects, home automation, microcontrollers
